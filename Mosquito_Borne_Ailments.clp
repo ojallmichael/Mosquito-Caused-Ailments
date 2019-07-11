@@ -1,5 +1,5 @@
 ; Mosquito Caused Diseases Recommender System
-;        OJALL MICHAEL OMONDI
+; By - OJALL MICHAEL OMONDI
 
 (deffacts certainty
         (slot disease)
