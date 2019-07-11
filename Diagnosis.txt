@@ -1,0 +1,198 @@
+Diagnosis Module.
+
+1.  Malaria Diagnosis.
+  (Clinical Diagnosis ) First Symptoms
+Fever, Chills, Sweats, Headaches, Muscle pain, Nausea and Vomiting.
+
+    Clinical Findings
+Confusion, Coma, Neurological Focal Signs, Severe Anaemia, Respiratory difficulties.
+To be confirmed by a laboratory test for Malaria.
+
+2. Dengue Diagnosis.
+
+(Laboratory Diagnosis)
+
+Isolation of the virus, using serological tests or molecular methods.
+
+(Dengue Without Warning Signs)
+Fever, Nausea, Vomiting, Rash, Aches and pains, Leukopenia, Positive Tourniquet test.
+(Dengue With Warning Signs)
+Severe Dengue
+Persistent vomiting, Clinical Fluid Accumulation(ascites, pleural effusion), Mucosal Bleeding, Lethargy, restlessness, Liver enlargement
+
+3.  African Sleeping Sickness
+
+intermittent fevers, Headaches, Muscle and Joint aches, and Malaise. Itching of the skin, swollen lymph nodes, and Weight loss
+(Laboratory Diagnosis)
+Finding parasite in body fluid or tissue by microscopy examination.
+Cerebrospinal fluid examination as choice of treatment depends on disease stage.
+
+4.  Yellow Fever
+
+Diagnosis
+Diagnosis is based on laboratory testing, a person’s symptoms, and travel history
+
+Symptoms
+Sudden onset of fever, Chills, Severe headache, Back pain, General body aches
+Nausea, Vomiting, Fatigue (feeling tired), Weakness
+Most people with the initial symptoms improve within one week.
+For some people who recover, weakness and fatigue (feeling tired) might last several month
+
+5.  Zika Fever.
+
+Diagnosis
+Infection with Zika virus may be suspected based on symptoms of persons living in or visiting areas with Zika virus transmission and/or Aedes mosquito vectors.
+A diagnosis of Zika virus infection can only be confirmed by laboratory tests of blood or other body fluids, such as urine or semen.
+
+6. Chikungunya.
+
+Diagnosis
+Several methods can be used for diagnosis. Serological tests, such as enzyme-linked immunosorbent assays (ELISA), may confirm the presence of IgM and IgG anti-chikungunya antibodies. IgM antibody levels are highest 3 to 5 weeks after the onset of illness and persist for about 2 months.
+ Samples collected during the first week after the onset of symptoms should be tested by both serological and virological methods (RT-PCR).
+The virus may be isolated from the blood during the first few days of infection.
+ Various reverse transcriptase–polymerase chain reaction (RT–PCR) methods are available but are of variable sensitivity. Some are suited to clinical diagnosis. RT–PCR products from clinical samples may also be used for genotyping of the virus, allowing comparisons with virus samples from various geographical sources.
+
+
+
+1. Malaria.
+
+	 Treatment
+Treatment consists of anti-parasitics
+When travelling to areas where malaria is common typically take protective drugs before, during and after their trip. Treatment includes antimalarial drugs.
+
+Medications
+    Anti-Parasite
+Kills parasites.
+    Antibiotics
+Stops the growth of or kills bacteria
+
+Specialists
+    Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+    Travel Medicine
+Manages health concerns for international travellers.
+    Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+    Emergency Medicine Doctor
+Treats patients in the emergency department.
+
+Critical: consult a doctor for medical advice
+
+2. Dengue.
+
+    Treatment
+Treatment consists of pain medications and fluids
+Treatment includes fluids and pain relievers. Severe cases require hospital care.
+
+    Supportive care
+Fluid replacement
+Supplies or replenishes water and nutrients in the body.
+Can be self-healing
+Condition usually improves over time without treatment.
+Oral rehydration therapy
+Giving fluid by mouth to treat dehydration caused by diarrhoea.
+IV fluids
+Delivering fluids, medication or blood directly into a vein.
+
+Critical: consult a doctor for medical advice
+
+    Medications
+Analgesic
+Relieves pain
+
+    Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Travel Medicine
+Manages health concerns for international travellers.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+Emergency Medicine Doctor
+Treats patients in the emergency department.
+
+Critical: consult a doctor for medical advice
+
+3. African Sleeping Sickness.
+
+Treatment
+
+Treatment consists of anti-parasitics
+Treatment involves drugs to kill the parasites.
+
+Medications
+
+Anti-Parasite
+Kills parasites.
+Enzyme inhibitor
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Travel Medicine
+Manages health concerns for international travellers.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases
+
+Consult a doctor for medical advice
+
+4.  Yellow Fever
+
+Treatment
+Treatment consists of fluids
+No specific treatment for the disease exists. Efforts focus on managing symptoms and limiting complications.
+
+Supportive care
+Oral rehydration therapy
+Giving fluid by mouth to treat dehydration caused by diarrhoea.
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Critical Care Doctor
+Monitors and treats those in intensive care.
+Travel Medicine
+Manages health concerns for international travellers.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+Emergency Medicine Doctor
+Treats patients in the emergency department.
+
+Critical: consult a doctor for medical advice
+
+5. Zika Fever
+
+Treatment
+There's no vaccine or specific treatment. Instead, the focus is on relieving symptoms and includes rest, rehydration and acetaminophen for fever and pain. Aspirin and non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen should be avoided.
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+
+Consult a doctor for medical advice
+
+6. Chikungunya.
+
+Treatment
+Treatment consists of pain medications and fluids
+Treatment is aimed at relieving symptoms. Most people feel better within a week or so, after the virus runs its course.
+
+Supportive care
+Fluid replacement
+Supplies or replenishes water and nutrients in the body.
+
+Medications
+Nonsteroidal anti-inflammatory drug
+Relieves pain, decreases inflammation and reduces fever.
+Analgesic
+Relieves pain.
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Travel Medicine
+Manages health concerns for international travellers.
+
+Consult a doctor for medical advice.
+

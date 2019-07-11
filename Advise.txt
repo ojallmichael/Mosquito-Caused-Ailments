@@ -1,0 +1,141 @@
+1. Malaria.
+
+ 	Treatment
+Treatment consists of anti-parasitics
+When travelling to areas where malaria is common typically take protective drugs before, during and after their trip. Treatment includes antimalarial drugs. 
+
+Medications
+	Anti-Parasite
+Kills parasites.
+	Antibiotics
+Stops the growth of or kills bacteria
+
+Specialists
+	Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+	Travel Medicine
+Manages health concerns for international travellers.
+	Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+	Emergency Medicine Doctor
+Treats patients in the emergency department.
+
+Critical: consult a doctor for medical advice
+
+2. Dengue.
+
+	Treatment
+Treatment consists of pain medications and fluids
+Treatment includes fluids and pain relievers. Severe cases require hospital care.
+
+	Supportive care
+Fluid replacement
+Supplies or replenishes water and nutrients in the body.
+Can be self-healing
+Condition usually improves over time without treatment.
+Oral rehydration therapy
+Giving fluid by mouth to treat dehydration caused by diarrhoea.
+IV fluids
+Delivering fluids, medication or blood directly into a vein.
+
+Critical: consult a doctor for medical advice
+
+	Medications
+Analgesic
+Relieves pain
+
+	Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Travel Medicine
+Manages health concerns for international travellers.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+Emergency Medicine Doctor
+Treats patients in the emergency department.
+
+Critical: consult a doctor for medical advice
+
+3. African Sleeping Sickness.
+
+Treatment
+
+Treatment consists of anti-parasitics
+Treatment involves drugs to kill the parasites.
+
+Medications
+
+Anti-Parasite
+Kills parasites.
+Enzyme inhibitor
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Travel Medicine
+Manages health concerns for international travellers.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases
+
+Consult a doctor for medical advice
+
+4.  Yellow Fever
+
+Treatment
+Treatment consists of fluids
+No specific treatment for the disease exists. Efforts focus on managing symptoms and limiting complications.
+
+Supportive care
+Oral rehydration therapy
+Giving fluid by mouth to treat dehydration caused by diarrhoea.
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Critical Care Doctor
+Monitors and treats those in intensive care.
+Travel Medicine
+Manages health concerns for international travellers.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+Emergency Medicine Doctor
+Treats patients in the emergency department.
+
+Critical: consult a doctor for medical advice
+
+5. Zika Fever
+
+Treatment
+There's no vaccine or specific treatment. Instead, the focus is on relieving symptoms and includes rest, rehydration and acetaminophen for fever and pain. Aspirin and non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen should be avoided.
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Primary Care Provider (PCP)
+Prevents, diagnoses and treats diseases.
+
+Consult a doctor for medical advice
+
+6. Chikungunya.
+
+Treatment
+Treatment consists of pain medications and fluids
+Treatment is aimed at relieving symptoms. Most people feel better within a week or so, after the virus runs its course.
+
+Supportive care
+Fluid replacement
+Supplies or replenishes water and nutrients in the body.
+
+Medications
+Nonsteroidal anti-inflammatory drug
+Relieves pain, decreases inflammation and reduces fever.
+Analgesic
+Relieves pain.
+
+Specialists
+Infectious Disease Doctor
+Treats infections, including those that are tropical in nature.
+Travel Medicine
+Manages health concerns for international travellers.
+
+Consult a doctor for medical advice.
