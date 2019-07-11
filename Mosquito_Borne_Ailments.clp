@@ -1,9 +1,5 @@
 ; Mosquito Caused Diseases Recommender System
-; GROUP 8: MEMBERS
-;        P15/31821/2015 OJALL MICHAEL OMONDI
-;        P15/1571/2015  DENNIS SANG
-;        P15/1751/2016  ADRIAN KIPKORIR
-;        P15/ /2015 MARVIN GACHOKA
+;        OJALL MICHAEL OMONDI
 
 (deffacts certainty
         (slot disease)
